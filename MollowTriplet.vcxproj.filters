@@ -4,15 +4,20 @@
     <CudaCompile Include="digitizer.cpp" />
     <CudaCompile Include="dsp.cu" />
     <CudaCompile Include="measurement.cu" />
+    <CudaCompile Include="dsp_2.cu" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="yokogawa_gs210.h" />
     <ClInclude Include="digitizer.h" />
     <ClInclude Include="dsp.cuh" />
     <ClInclude Include="measurement.cuh" />
+    <ClInclude Include="dsp_2.cuh" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="yokogawa_gs210.cpp" />
     <ClCompile Include="binding.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
   </ItemGroup>
 </Project>
