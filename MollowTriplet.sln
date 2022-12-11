@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mollowgpu", "MollowTriplet.vcxproj", "{C096206A-67DB-41D8-960A-DC92B0F393BE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nonstationaryg1", "nonstationaryg1\nonstationaryg1.vcxproj", "{1125E569-C80B-4738-829A-75E92B72A2F1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -16,10 +14,6 @@ Global
 		{C096206A-67DB-41D8-960A-DC92B0F393BE}.Debug|x64.ActiveCfg = Debug|x64
 		{C096206A-67DB-41D8-960A-DC92B0F393BE}.Release|x64.ActiveCfg = Release|x64
 		{C096206A-67DB-41D8-960A-DC92B0F393BE}.Release|x64.Build.0 = Release|x64
-		{1125E569-C80B-4738-829A-75E92B72A2F1}.Debug|x64.ActiveCfg = Debug|x64
-		{1125E569-C80B-4738-829A-75E92B72A2F1}.Debug|x64.Build.0 = Debug|x64
-		{1125E569-C80B-4738-829A-75E92B72A2F1}.Release|x64.ActiveCfg = Release|x64
-		{1125E569-C80B-4738-829A-75E92B72A2F1}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
